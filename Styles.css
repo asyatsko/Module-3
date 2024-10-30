@@ -1,0 +1,89 @@
+body {
+    min-width: 400px;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+
+}
+
+.main {
+    width: 1150px;
+    height: 750px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text_img {
+    width: 1150px;
+    height: 750px;
+    background-image: url(style_design.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 12px;
+}
+
+h1 {
+    width: 956px;
+    height: 120px;
+    font-family: "Raleway", serif;
+    font-size: 55px;
+}
+
+.info {
+    width: 430px;
+    height: 81px;
+    font-family: "Raleway", serif;
+    color: white;
+    font-size: 19px;
+    line-height: 23px;
+    padding-top: 620px;
+    padding-left: 50px;
+}
+
+.about {
+    width: 1051px;
+    height: 650px;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h2 {
+    font-family: "Raleway", serif;
+    color: black;
+    text-transform: uppercase;
+    font-size: 19px;
+    padding-bottom: 30px;
+}
+
+.about_info {
+    font-family: "Raleway", serif;
+    color: black;
+    font-size: 42px;
+    line-height: 47px;
+}
+
+
+
+
+a {
+    display: block;
+    width: 250px;
+    height: 67px;
+    text-align: center;
+    border: 1px solid black;
+    line-height: 67px;
+    text-decoration: none;
+    margin-top: 45px;
+    font-family: "Raleway", serif;
+    font-size: 19px;
+    color: whitesmoke;
+    background-color: rgb(43, 44, 44);
+}
+
+a:hover {
+    background-color: darkred;
+    color: aliceblue;
+}
